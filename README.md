@@ -1,12 +1,16 @@
 # chat_app
 
-A new Flutter project.
+Simple chat application using Firebase
+
+Technologies used
+
+**Firebase Authentication**: to log in and create accounts.
+
+- **Firebase Firestore**: to store messages in real time.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Project Photos
+![3](https://github.com/user-attachments/assets/ed4db410-fc47-4ff8-a502-4acd4403d749)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
