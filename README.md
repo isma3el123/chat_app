@@ -1,4 +1,7 @@
 # chat_app
+Welcome, thank you for visiting.
+
+I hope this project is useful.
 
 Simple chat application using Firebase
 
